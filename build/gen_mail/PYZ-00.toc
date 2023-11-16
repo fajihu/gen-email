@@ -1,5 +1,4 @@
-('C:\\Users\\tuyet\\OneDrive\\Máy tính\\create '
- 'mail\\build\\gen_mail\\PYZ-00.pyz',
+('C:\\Users\\tuyet\\OneDrive\\Máy tính\\gen-email\\build\\gen_mail\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\tuyet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
    'PYMODULE'),
